@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SebaGram/static/css/main.4de89ce6.chunk.css",
+    "main.js": "/SebaGram/static/js/main.8f1659f7.chunk.js",
+    "main.js.map": "/SebaGram/static/js/main.8f1659f7.chunk.js.map",
+    "runtime-main.js": "/SebaGram/static/js/runtime-main.46438a89.js",
+    "runtime-main.js.map": "/SebaGram/static/js/runtime-main.46438a89.js.map",
+    "static/js/2.180c939a.chunk.js": "/SebaGram/static/js/2.180c939a.chunk.js",
+    "static/js/2.180c939a.chunk.js.map": "/SebaGram/static/js/2.180c939a.chunk.js.map",
+    "index.html": "/SebaGram/index.html",
+    "precache-manifest.73cbe3945e2265bea33c8cd6b9c501e4.js": "/SebaGram/precache-manifest.73cbe3945e2265bea33c8cd6b9c501e4.js",
+    "service-worker.js": "/SebaGram/service-worker.js",
+    "static/css/main.4de89ce6.chunk.css.map": "/SebaGram/static/css/main.4de89ce6.chunk.css.map",
+    "static/js/2.180c939a.chunk.js.LICENSE.txt": "/SebaGram/static/js/2.180c939a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46438a89.js",
+    "static/js/2.180c939a.chunk.js",
+    "static/css/main.4de89ce6.chunk.css",
+    "static/js/main.8f1659f7.chunk.js"
+  ]
+}
