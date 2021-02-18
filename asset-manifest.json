@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SebaGram/static/css/main.167c75c6.chunk.css",
-    "main.js": "/SebaGram/static/js/main.881aabb7.chunk.js",
-    "main.js.map": "/SebaGram/static/js/main.881aabb7.chunk.js.map",
+    "main.css": "/SebaGram/static/css/main.2a9267e2.chunk.css",
+    "main.js": "/SebaGram/static/js/main.d833f5d6.chunk.js",
+    "main.js.map": "/SebaGram/static/js/main.d833f5d6.chunk.js.map",
     "runtime-main.js": "/SebaGram/static/js/runtime-main.48fbdc84.js",
     "runtime-main.js.map": "/SebaGram/static/js/runtime-main.48fbdc84.js.map",
-    "static/js/2.5c3ed4f6.chunk.js": "/SebaGram/static/js/2.5c3ed4f6.chunk.js",
-    "static/js/2.5c3ed4f6.chunk.js.map": "/SebaGram/static/js/2.5c3ed4f6.chunk.js.map",
+    "static/js/2.9ca8275b.chunk.js": "/SebaGram/static/js/2.9ca8275b.chunk.js",
+    "static/js/2.9ca8275b.chunk.js.map": "/SebaGram/static/js/2.9ca8275b.chunk.js.map",
     "index.html": "/SebaGram/index.html",
-    "precache-manifest.9663d50126f01bfe86027756a13bc5b6.js": "/SebaGram/precache-manifest.9663d50126f01bfe86027756a13bc5b6.js",
+    "precache-manifest.9b2f6513d58b802aff34db8f082252ad.js": "/SebaGram/precache-manifest.9b2f6513d58b802aff34db8f082252ad.js",
     "service-worker.js": "/SebaGram/service-worker.js",
-    "static/css/main.167c75c6.chunk.css.map": "/SebaGram/static/css/main.167c75c6.chunk.css.map",
-    "static/js/2.5c3ed4f6.chunk.js.LICENSE.txt": "/SebaGram/static/js/2.5c3ed4f6.chunk.js.LICENSE.txt"
+    "static/css/main.2a9267e2.chunk.css.map": "/SebaGram/static/css/main.2a9267e2.chunk.css.map",
+    "static/js/2.9ca8275b.chunk.js.LICENSE.txt": "/SebaGram/static/js/2.9ca8275b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48fbdc84.js",
-    "static/js/2.5c3ed4f6.chunk.js",
-    "static/css/main.167c75c6.chunk.css",
-    "static/js/main.881aabb7.chunk.js"
+    "static/js/2.9ca8275b.chunk.js",
+    "static/css/main.2a9267e2.chunk.css",
+    "static/js/main.d833f5d6.chunk.js"
   ]
 }
